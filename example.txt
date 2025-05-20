@@ -1,6 +1,3 @@
-A
-B
-C
-D
-E
-F
+This is better
+this is also 
+this is best
