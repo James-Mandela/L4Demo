@@ -7,3 +7,5 @@ def SayHello():
     print("Hello Everyone")
 def GoodbyeWolrd():
     print("Good Bye World")
+def HelloWolrd():
+    print("Hello World")
